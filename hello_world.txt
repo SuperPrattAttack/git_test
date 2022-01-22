@@ -1,1 +1,3 @@
 Hello world! This is my first official project!
+
+Changing the file to test a commit without using the -m message flag to see what text editor opens.
