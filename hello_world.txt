@@ -3,3 +3,5 @@ Hello world! This is my first official project!
 Changing the file to test a commit without using the -m message flag to see what text editor opens.
 
 Adding another line to test nano as the default editor for commit messages.
+
+Adding another line to test my memory of terminal and git commands after a weekend of not studying.
